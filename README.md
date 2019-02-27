@@ -1,5 +1,5 @@
 # chello
-chello as in c-hello is a basic terminal chat application built to learn more about the sockets API and pthreads. Inspired by [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/multi/index.html).
+chello (as in c-hello) is a basic terminal chat application built to learn more about the sockets API and pthreads. Inspired by [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/multi/index.html).
 
 ## Build
 
